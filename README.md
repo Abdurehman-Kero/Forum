@@ -1,6 +1,6 @@
 # Evangadi Forum
 
-[![Frontend](https://img.shields.io/badge/Frontend-React-blue)](https://forum.abdurehman.com)  
+[![live](https://img.shields.io/badge/Frontend-React-blue)](https://forum.abdurehman.com)  
 
 
 Evangadi Forum is a **full-stack Question and Answer web application** inspired by community-driven discussion platforms. The application enables users to ask questions, provide answers, vote on responses, and engage in structured discussions within a secure and authenticated environment.
