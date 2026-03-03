@@ -1,7 +1,6 @@
 # Evangadi Forum
 
-[![Frontend](https://img.shields.io/badge/Frontend-React-blue)](https://forum.mikretadesse.com)  
-[![Backend](https://img.shields.io/badge/Backend-Node.js-green)](https://forumbackend.mikretadesse.com)  
+[![Frontend](https://img.shields.io/badge/Frontend-React-blue)](https://forum.abdurehman.com)  
 
 
 Evangadi Forum is a **full-stack Question and Answer web application** inspired by community-driven discussion platforms. The application enables users to ask questions, provide answers, vote on responses, and engage in structured discussions within a secure and authenticated environment.
@@ -12,8 +11,7 @@ The system is designed with a clean RESTful architecture, focusing on scalabilit
 
 ## 🌐 Demo
 
-- Frontend live: [https://forum.mikretadesse.com](https://forum.mikretadesse.com)
-- Backend live (Render): [https://forumbackend.mikretadesse.com](https://forumbackend.mikretadesse.com)
+-  live: [https://forum.abdurehman.com](https://forum.abdurehman.com)
 
 ## 🚀 Features
 - User registration and authentication (JWT)
